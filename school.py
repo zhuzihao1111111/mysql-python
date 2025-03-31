@@ -2,7 +2,7 @@ class School:
     def __init__(self, name):
         self.name = name          # 学校名称
         self.colleges = set()    # 学院集合,使用set避免重复
-        self.students = {}       # Students
+        self.students = {}       # 学校
     
     # College Operations
     
