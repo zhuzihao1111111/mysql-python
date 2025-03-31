@@ -1,0 +1,2 @@
+test.py的文件内用的是python+MySQL数据库的方式创建
+school.py文件是直接用Python创建的数据库，并附带直接对它进行增删改查的示例。
